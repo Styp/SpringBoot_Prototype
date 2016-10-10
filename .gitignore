@@ -1,0 +1,10 @@
+logs
+target
+!/.idea/inspectionProfiles
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+.vagrant
